@@ -1,5 +1,12 @@
-# Ejercicios-Infraestructura-de-datos
-
+# Ejercicios Infraestructura de datos - Grupo N°7
+<b>
+    1. Camila Vidoni (camilavidoni7@gmail.com - camilavidoni)
+    2. Gastón Rossi (gastonricardorossi@gmail.com - torino05)
+    3. Alex Flores  (alexfloresunsam@gmail.com - afloreschoquehuanca-byte)  
+    4. Morena Stolerman (morenastolerman@gmail.com - morenastolerman)
+    5. Gonzalo Cárdenas (goncar1235@gmail.com - zagon22)
+    6. Gabriela Gattas (evalauh@yahoo.com - Gabi6285)
+</b>
 ## Ejercicios de creación y actualización de repositorios
 ### Ejercicio 1
 Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida.
@@ -56,14 +63,14 @@ Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit de los cambios con el mensaje “Añadido capítulo 5 al índice.”.
 Mostrar quién ha hecho cambios sobre el fichero indice.txt.
 
-# Ejercicios de deshacer cambios
-# Ejercicio 1
+## Ejercicios de deshacer cambios
+### Ejercicio 1
 Eliminar la última línea del fichero indice.txt y guardarlo.
 Comprobar el estado del repositorio.
 Deshacer los cambios realizados en el fichero indice.txt para volver a la versión anterior del fichero.
 Volver a comprobar el estado del repositorio.
 
-# Ejercicio 2
+### Ejercicio 2
 Eliminar la última línea del fichero indice.txt y guardarlo.
 Añadir los cambios a la zona de intercambio temporal.
 Comprobar de nuevo el estado del repositorio.
@@ -72,7 +79,7 @@ Comprobar de nuevo el estado del repositorio.
 Deshacer los cambios realizados en el fichero indice.txt para volver a la versión anterior del fichero.
 Volver a comprobar el estado del repositorio.
 
-# Ejercicio 3
+### Ejercicio 3
 Eliminar la última línea del fichero indice.txt y guardarlo.
 Eliminar el fichero capitulos/capitulo3.txt.
 Añadir un fichero nuevo capitulos/capitulo4.txt vacío.
@@ -83,7 +90,7 @@ Comprobar de nuevo el estado del repositorio.
 Deshacer los cambios realizados para volver a la versión del repositorio.
 Volver a comprobar el estado del repositorio.
 
-# Ejercicio 4
+### Ejercicio 4
 Eliminar la última línea del fichero indice.txt y guardarlo.
 Eliminar el fichero capitulos/capitulo3.txt.
 Añadir los cambios a la zona de intercambio temporal y hacer un commit con el mensaje “Borrado accidental.”
@@ -94,17 +101,17 @@ Volver a hacer el commit con el mismo mensaje de antes.
 Deshacer el último commit y los cambios anteriores del directorio de trabajo volviendo a la versión anterior del repositorio.
 Comprobar de nuevo el historial y el estado del repositorio.
 
-# Ejercicios de repositorios remotos
-# Ejercicio 1
+## Ejercicios de repositorios remotos
+### Ejercicio 1
 Crear un nuevo repositorio público en GitHub con el nombre libro-git.
 Añadirlo al repositorio local del libro.
 Mostrar todos los repositorios remotos configurados.
 
-# Ejercicio 2
+### Ejercicio 2
 Añadir los cambios del repositorio local al repositorio remoto de GitHub.
 Acceder a GitHub y comprobar que se han subido los cambios mostrando el historial de versiones.
 
-# Ejercicio 3
+### Ejercicio 3
 Colaborar en el repositorio remoto libro-git de otro usuario.
 Clonar su repositorio libro-git.
 Añadir el fichero autores.txt que contenga el nombre del usuario y su correo electrónico.
@@ -112,7 +119,7 @@ Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit con el mensaje “Añadido autor.”
 Subir los cambios al repositorio remoto.
 
-# Ejercicio 4
+### Ejercicio 4
 Hacer una bifurcación del repositorio remoto asalber/libro-git en GitHub.
 Clonar el repositorio creado en la cuenta de GitHub del usuario.
 Crear una nueva rama autoria y activarla.
