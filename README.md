@@ -1,12 +1,12 @@
 # Ejercicios Infraestructura de datos - Grupo N°7
-<b>
+
     1. Camila Vidoni (camilavidoni7@gmail.com - camilavidoni)
     2. Gastón Rossi (gastonricardorossi@gmail.com - torino05)
     3. Alex Flores  (alexfloresunsam@gmail.com - afloreschoquehuanca-byte)  
     4. Morena Stolerman (morenastolerman@gmail.com - morenastolerman)
     5. Gonzalo Cárdenas (goncar1235@gmail.com - zagon22)
     6. Gabriela Gattas (evalauh@yahoo.com - Gabi6285)
-</b>
+
 ## Ejercicios de creación y actualización de repositorios
 ### Ejercicio 1
 Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida.
