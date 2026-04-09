@@ -28,8 +28,8 @@ Mostrar los cambios de la última versión del repositorio con respecto a la ant
 Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
 Volver a mostrar los últimos cambios del repositorio.
 
-# Ejercicios de manejo del historial de cambios
-# Ejercicio 1
+## Ejercicios de manejo del historial de cambios
+### Ejercicio 1
 Mostrar el historial de cambios del repositorio.
 Crear la carpeta capítulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto.
 Git es un sistema de control de versiones ideado por Linus Torvalds.
@@ -37,19 +37,19 @@ Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit de los cambios con el mensaje “Añadido capítulo 1.” Volver a mostrar el historial de
 cambios del repositorio.
 
-# Ejercicio 2
+### Ejercicio 2
 Crear el fichero capitulo2.txt en la carpeta capítulos con el siguiente texto.
 Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit de los cambios con el mensaje “Añadido capítulo 2.”
 Mostrar las diferencias entre la última versión y dos versiones anteriores.
 
-# Ejercicio 3
+### Ejercicio 3
 Crear el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto.
 Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit de los cambios con el mensaje “Añadido capítulo 3.”
 Mostrar las diferencias entre la primera y la última versión del repositorio.
 
-# Ejercicio 4
+### Ejercicio 4
 Añadir al final del fichero indice.txt la siguiente línea:
 Capítulo 5: Conceptos avanzados
 Añadir los cambios a la zona de intercambio temporal.
