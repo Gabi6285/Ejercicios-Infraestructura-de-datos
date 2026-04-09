@@ -10,6 +10,7 @@
 ## Ejercicios de creación y actualización de repositorios
 ### Ejercicio 1
 Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida.
+
 Mostrar la configuración final.
 
 ### Ejercicio 2
