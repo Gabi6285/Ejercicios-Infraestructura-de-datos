@@ -17,11 +17,11 @@ Crear un repositorio nuevo con el nombre libro y mostrar su contenido.<br>
 
 ### Ejercicio 3
 Comprobar el estado del repositorio.<br>
-Crear un fichero indice.txt con el siguiente contenido:
+Crear un fichero indice.txt con el siguiente contenido:<br>
 
-Capítulo 1: Introducción a Git
-Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Repositorios remotos
+    Capítulo 1: Introducción a Git
+    Capítulo 2: Flujo de trabajo básico
+    Capítulo 3: Repositorios remotos
 
 Comprobar de nuevo el estado del repositorio.<br>
 Añadir el fichero a la zona de intercambio temporal.<br>
