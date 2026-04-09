@@ -9,19 +9,23 @@
 
 ## Ejercicios de creación y actualización de repositorios
 ### Ejercicio 1
-Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida.
-
-Mostrar la configuración final.
+Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida.<br>
+Mostrar la configuración final.<br>
 
 ### Ejercicio 2
-Crear un repositorio nuevo con el nombre libro y mostrar su contenido.
+Crear un repositorio nuevo con el nombre libro y mostrar su contenido.<br>
 
 ### Ejercicio 3
 Comprobar el estado del repositorio.<br>
 Crear un fichero indice.txt con el siguiente contenido:
-Comprobar de nuevo el estado del repositorio.
-Añadir el fichero a la zona de intercambio temporal.
-Volver a comprobar una vez más el estado del repositorio.
+
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Repositorios remotos
+
+Comprobar de nuevo el estado del repositorio.<br>
+Añadir el fichero a la zona de intercambio temporal.<br>
+Volver a comprobar una vez más el estado del repositorio.<br>
 
 ### Ejercicio 4
 Realizar un commit de los últimos cambios con el mensaje “Añadido índice del libro.” y ver el estado del repositorio.
