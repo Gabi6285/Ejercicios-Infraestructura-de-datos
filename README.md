@@ -17,7 +17,7 @@ Mostrar la configuración final.
 Crear un repositorio nuevo con el nombre libro y mostrar su contenido.
 
 ### Ejercicio 3
-Comprobar el estado del repositorio.
+Comprobar el estado del repositorio.<br>
 Crear un fichero indice.txt con el siguiente contenido:
 Comprobar de nuevo el estado del repositorio.
 Añadir el fichero a la zona de intercambio temporal.
