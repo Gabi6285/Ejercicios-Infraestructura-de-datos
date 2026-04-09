@@ -28,7 +28,7 @@ Añadir el fichero a la zona de intercambio temporal.<br>
 Volver a comprobar una vez más el estado del repositorio.<br>
 
 ### Ejercicio 4
-Realizar un commit de los últimos cambios con el mensaje “Añadido índice del libro.” y ver el estado del repositorio.
+Realizar un commit de los últimos cambios con el mensaje *“Añadido índice del libro.”* y ver el estado del repositorio.
 
 ### Ejercicio 5
 Cambiar el fichero indice.txt para que contenga lo siguiente:
