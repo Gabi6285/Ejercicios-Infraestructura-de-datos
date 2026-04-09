@@ -39,11 +39,11 @@ Cambiar el fichero indice.txt para que contenga lo siguiente:
     Capítulo 4: Repositorios remotos
 
 Mostrar los cambios con respecto a la última versión guardada en el repositorio.
-Hacer un commit de los cambios con el mensaje “Añadido capítulo 3 sobre gestión de ramas”.
+Hacer un commit de los cambios con el mensaje *“Añadido capítulo 3 sobre gestión de ramas”*.
 
 ### Ejercicio 6
 Mostrar los cambios de la última versión del repositorio con respecto a la anterior.
-Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
+Cambiar el mensaje del último commit por *“Añadido capítulo 3 sobre gestión de ramas al índice”*.
 Volver a mostrar los últimos cambios del repositorio.
 
 ## Ejercicios de manejo del historial de cambios
@@ -52,26 +52,26 @@ Mostrar el historial de cambios del repositorio.
 Crear la carpeta capítulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto.
 Git es un sistema de control de versiones ideado por Linus Torvalds.
 Añadir los cambios a la zona de intercambio temporal.
-Hacer un commit de los cambios con el mensaje “Añadido capítulo 1.” Volver a mostrar el historial de
+Hacer un commit de los cambios con el mensaje *“Añadido capítulo 1”*. Volver a mostrar el historial de
 cambios del repositorio.
 
 ### Ejercicio 2
 Crear el fichero capitulo2.txt en la carpeta capítulos con el siguiente texto.
 Añadir los cambios a la zona de intercambio temporal.
-Hacer un commit de los cambios con el mensaje “Añadido capítulo 2.”
+Hacer un commit de los cambios con el mensaje *“Añadido capítulo 2”*.
 Mostrar las diferencias entre la última versión y dos versiones anteriores.
 
 ### Ejercicio 3
 Crear el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto.
 Añadir los cambios a la zona de intercambio temporal.
-Hacer un commit de los cambios con el mensaje “Añadido capítulo 3.”
+Hacer un commit de los cambios con el mensaje *“Añadido capítulo 3”*.
 Mostrar las diferencias entre la primera y la última versión del repositorio.
 
 ### Ejercicio 4
 Añadir al final del fichero indice.txt la siguiente línea:
 Capítulo 5: Conceptos avanzados
 Añadir los cambios a la zona de intercambio temporal.
-Hacer un commit de los cambios con el mensaje “Añadido capítulo 5 al índice.”.
+Hacer un commit de los cambios con el mensaje *“Añadido capítulo 5 al índice”*.
 Mostrar quién ha hecho cambios sobre el fichero indice.txt.
 
 ## Ejercicios de deshacer cambios
@@ -104,7 +104,7 @@ Volver a comprobar el estado del repositorio.
 ### Ejercicio 4
 Eliminar la última línea del fichero indice.txt y guardarlo.
 Eliminar el fichero capitulos/capitulo3.txt.
-Añadir los cambios a la zona de intercambio temporal y hacer un commit con el mensaje “Borrado accidental.”
+Añadir los cambios a la zona de intercambio temporal y hacer un commit con el mensaje *“Borrado accidental”*.
 Comprobar el historial del repositorio.
 Deshacer el último commit pero mantener los cambios anteriores en el directorio de trabajo y la zona de intercambio temporal.
 Comprobar el historial y el estado del repositorio.
@@ -127,7 +127,7 @@ Colaborar en el repositorio remoto libro-git de otro usuario.
 Clonar su repositorio libro-git.
 Añadir el fichero autores.txt que contenga el nombre del usuario y su correo electrónico.
 Añadir los cambios a la zona de intercambio temporal.
-Hacer un commit con el mensaje “Añadido autor.”
+Hacer un commit con el mensaje *“Añadido autor”*.
 Subir los cambios al repositorio remoto.
 
 ### Ejercicio 4
@@ -136,6 +136,6 @@ Clonar el repositorio creado en la cuenta de GitHub del usuario.
 Crear una nueva rama autoria y activarla.
 Añadir el nombre del usuario y su correo al fichero autores.txt.
 Añadir los cambios a la zona de intercambio temporal.
-Hacer un commit con el mensaje “Añadido nuevo autor.”
+Hacer un commit con el mensaje *“Añadido nuevo autor”*.
 Subir los cambios de la rama autoria al repositorio remoto en GitHub.
-Hacer un Pull Request de los cambios en la rama autoria.
+Hacer un Pull Request de los cambios en la rama autoría.
