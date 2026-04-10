@@ -79,7 +79,7 @@ Hacer un commit de los cambios con el mensaje *“Añadido capítulo 3”*.<br>
 Mostrar las diferencias entre la primera y la última versión del repositorio.<br>
 
 ### Ejercicio 4
-Añadir al final del fichero indice.txt la siguiente línea:<br>
+Añadir al final del fichero <ins>indice.txt</ins> la siguiente línea:<br>
 
     Capítulo 5: Conceptos avanzados
 
