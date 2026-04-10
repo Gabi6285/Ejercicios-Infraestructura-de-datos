@@ -17,7 +17,7 @@ Crear un repositorio nuevo con el nombre libro y mostrar su contenido.<br>
 
 ### Ejercicio 3
 Comprobar el estado del repositorio.<br>
-Crear un fichero indice.txt con el siguiente contenido:<br>
+Crear un fichero <ins>indice.txt</ins> con el siguiente contenido:<br>
 
     Capítulo 1: Introducción a Git
     Capítulo 2: Flujo de trabajo básico
