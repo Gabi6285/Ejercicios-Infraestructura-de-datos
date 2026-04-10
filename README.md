@@ -49,7 +49,7 @@ Volver a mostrar los últimos cambios del repositorio.<br>
 ## <ins>Ejercicios de manejo del historial de cambios</ins>
 ### Ejercicio 1
 Mostrar el historial de cambios del repositorio.<br>
-Crear la carpeta capítulos y crear dentro de ella el fichero <ins>capitulo1.txt</ins> con el siguiente texto.<br>
+Crear la carpeta capítulos y crear dentro de ella el fichero <ins>capitulo1.txt</ins> con el siguiente texto:<br>
 
     Git es un sistema de control de versiones ideado por Linus Torvalds.
 
@@ -57,22 +57,28 @@ Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 1”*. Volver a mostrar el historial de cambios del repositorio.<br>
 
 ### Ejercicio 2
-Crear el fichero <ins>capitulo2.txt</ins> en la carpeta capítulos con el siguiente texto.<br>
+Crear el fichero <ins>capitulo2.txt</ins> en la carpeta capítulos con el siguiente texto:<br>
+
     El flujo de trabajo básico con Git consiste en: 1. Hacer cambios en el repositorio. 2. Añadir los cambios a la zona de intercambio temporal. 3. Hacer un commit de los cambios.
+
 Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 2”*.<br>
 Mostrar las diferencias entre la última versión y dos versiones anteriores.<br>
 
 ### Ejercicio 3
-Crear el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto.<br>
+Crear el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto:<br>
+
     Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultánea en ellas.
+
 Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 3”*.<br>
 Mostrar las diferencias entre la primera y la última versión del repositorio.<br>
 
 ### Ejercicio 4
 Añadir al final del fichero indice.txt la siguiente línea:<br>
+
     Capítulo 5: Conceptos avanzados
+
 Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 5 al índice”*.<br>
 Mostrar quién ha hecho cambios sobre el fichero <ins>indice.txt</ins>.<br>
