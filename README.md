@@ -31,7 +31,7 @@ Volver a comprobar una vez más el estado del repositorio.<br>
 Realizar un commit de los últimos cambios con el mensaje *“Añadido índice del libro.”* y ver el estado del repositorio.
 
 ### Ejercicio 5
-Cambiar el fichero indice.txt para que contenga lo siguiente:
+Cambiar el fichero <ins>indice.txt</ins> para que contenga lo siguiente:
 
     Capítulo 1: Introducción a Git
     Capítulo 2: Flujo de trabajo básico
@@ -46,17 +46,17 @@ Mostrar los cambios de la última versión del repositorio con respecto a la ant
 Cambiar el mensaje del último commit por *“Añadido capítulo 3 sobre gestión de ramas al índice”*.
 Volver a mostrar los últimos cambios del repositorio.
 
-## Ejercicios de manejo del historial de cambios
+## <ins>Ejercicios de manejo del historial de cambios</ins>
 ### Ejercicio 1
 Mostrar el historial de cambios del repositorio.
-Crear la carpeta capítulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto.
+Crear la carpeta capítulos y crear dentro de ella el fichero <ins>capitulo1.txt</ins> con el siguiente texto.
 Git es un sistema de control de versiones ideado por Linus Torvalds.
 Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 1”*. Volver a mostrar el historial de
 cambios del repositorio.
 
 ### Ejercicio 2
-Crear el fichero capitulo2.txt en la carpeta capítulos con el siguiente texto.
+Crear el fichero <ins>capitulo2.txt</ins> en la carpeta capítulos con el siguiente texto.
 Añadir los cambios a la zona de intercambio temporal.
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 2”*.
 Mostrar las diferencias entre la última versión y dos versiones anteriores.
