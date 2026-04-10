@@ -59,7 +59,10 @@ Hacer un commit de los cambios con el mensaje *“Añadido capítulo 1”*. Volv
 ### Ejercicio 2
 Crear el fichero <ins>capitulo2.txt</ins> en la carpeta capítulos con el siguiente texto:<br>
 
-    El flujo de trabajo básico con Git consiste en: 1. Hacer cambios en el repositorio. 2. Añadir los cambios a la zona de intercambio temporal. 3. Hacer un commit de los cambios.
+    El flujo de trabajo básico con Git consiste en:
+    1. Hacer cambios en el repositorio.
+    2. Añadir los cambios a la zona de intercambio temporal.
+    3. Hacer un commit de los cambios.
 
 Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 2”*.<br>
@@ -68,7 +71,8 @@ Mostrar las diferencias entre la última versión y dos versiones anteriores.<br
 ### Ejercicio 3
 Crear el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto:<br>
 
-    Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultánea en ellas.
+    Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto
+    y trabajar de manera simultánea en ellas.
 
 Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 3”*.<br>
