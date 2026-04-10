@@ -50,7 +50,9 @@ Volver a mostrar los últimos cambios del repositorio.<br>
 ### Ejercicio 1
 Mostrar el historial de cambios del repositorio.<br>
 Crear la carpeta capítulos y crear dentro de ella el fichero <ins>capitulo1.txt</ins> con el siguiente texto.<br>
+
     Git es un sistema de control de versiones ideado por Linus Torvalds.
+
 Añadir los cambios a la zona de intercambio temporal.<br>
 Hacer un commit de los cambios con el mensaje *“Añadido capítulo 1”*. Volver a mostrar el historial de cambios del repositorio.<br>
 
