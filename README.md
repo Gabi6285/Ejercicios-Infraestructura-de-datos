@@ -69,7 +69,7 @@ Hacer un commit de los cambios con el mensaje *“Añadido capítulo 2”*.<br>
 Mostrar las diferencias entre la última versión y dos versiones anteriores.<br>
 
 ### Ejercicio 3
-Crear el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto:<br>
+Crear el fichero <ins>capitulo3.txt</ins> en la carpeta capítulos con el siguiente texto:<br>
 
     Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto
     y trabajar de manera simultánea en ellas.
